@@ -18,4 +18,5 @@ Sempre em busca de ser uma melhor versão de mim mesmo a cada dia.
 <br><br/>
 <br><br/>
 Email: wyurirodrigues@gmail.com
-Némero: +5531997064091
+  <br/>
+Número: +5531997064091
